@@ -29,8 +29,6 @@ format:
     citeproc: true  
     bibliography: references.bib  
     link-citations: true
-      - cosmo
-      - brand
     css: styles.css
     toc: true
 
