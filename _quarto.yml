@@ -30,7 +30,6 @@ format:
     bibliography: references.bib  
     link-citations: true
     css: styles.css
-    toc: true
 
 
 
