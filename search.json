@@ -7,11 +7,11 @@
     "text": "No matching items"
   },
   {
-    "objectID": "papers/index.html",
-    "href": "papers/index.html",
-    "title": "Resumes of Papers",
+    "objectID": "papers/2026-10-27-Intrinsic_Preservation_of_Plasticity_in_Continual_Quantum_Learning.html",
+    "href": "papers/2026-10-27-Intrinsic_Preservation_of_Plasticity_in_Continual_Quantum_Learning.html",
+    "title": "",
     "section": "",
-    "text": "Intrinsic Preservation of Plasticity in Continual Quantum Learning\n\n\n\nQC\n\nML\n\nIA\n\n\n\n\n\n\n\n\n\nOct 25, 2026\n\n\nMatheus Nome\n\n\n\n\n\nNo matching items"
+    "text": "Code"
   },
   {
     "objectID": "about.html",
@@ -21,45 +21,17 @@
     "text": "About this site"
   },
   {
-    "objectID": "papers/Intrinsic_Preservation_of_Plasticity_in_Continual_Quantum_Learning.html#the-problem",
-    "href": "papers/Intrinsic_Preservation_of_Plasticity_in_Continual_Quantum_Learning.html#the-problem",
-    "title": "Intrinsic Preservation of Plasticity in Continual Quantum Learning",
-    "section": "The Problem",
-    "text": "The Problem"
-  },
-  {
-    "objectID": "papers/Intrinsic_Preservation_of_Plasticity_in_Continual_Quantum_Learning.html#central-ideal",
-    "href": "papers/Intrinsic_Preservation_of_Plasticity_in_Continual_Quantum_Learning.html#central-ideal",
-    "title": "Intrinsic Preservation of Plasticity in Continual Quantum Learning",
-    "section": "Central Ideal",
-    "text": "Central Ideal"
-  },
-  {
-    "objectID": "papers/Intrinsic_Preservation_of_Plasticity_in_Continual_Quantum_Learning.html#methodologies",
-    "href": "papers/Intrinsic_Preservation_of_Plasticity_in_Continual_Quantum_Learning.html#methodologies",
-    "title": "Intrinsic Preservation of Plasticity in Continual Quantum Learning",
-    "section": "Methodologies",
-    "text": "Methodologies"
-  },
-  {
-    "objectID": "papers/Intrinsic_Preservation_of_Plasticity_in_Continual_Quantum_Learning.html#results",
-    "href": "papers/Intrinsic_Preservation_of_Plasticity_in_Continual_Quantum_Learning.html#results",
-    "title": "Intrinsic Preservation of Plasticity in Continual Quantum Learning",
-    "section": "Results",
-    "text": "Results"
-  },
-  {
-    "objectID": "papers/Intrinsic_Preservation_of_Plasticity_in_Continual_Quantum_Learning.html#implementation",
-    "href": "papers/Intrinsic_Preservation_of_Plasticity_in_Continual_Quantum_Learning.html#implementation",
-    "title": "Intrinsic Preservation of Plasticity in Continual Quantum Learning",
-    "section": "Implementation",
-    "text": "Implementation"
+    "objectID": "papers/index.html",
+    "href": "papers/index.html",
+    "title": "Resumes of Papers",
+    "section": "",
+    "text": "No matching items"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "y",
+    "title": "",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Code\n\n\n\n\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
 ]
