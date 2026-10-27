@@ -10,12 +10,15 @@ website:
     left:
       - href: index.qmd
         text: Start
+
       - href: papers/index.qmd
-      - text: Papers
+        text: Papers
+
       - href: tutorials/index.qmd
-      - text: Tutorials
+        text: Tutorials
+
       - href: about.qmd
-      - text: About
+        text: About
 
     right:
       - icon: github
