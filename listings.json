@@ -5,6 +5,8 @@
   },
   {
     "listing": "/papers/index.html",
-    "items": []
+    "items": [
+      "/papers/Intrinsic_Preservation_of_Plasticity_in_Continual_Quantum_Learning.html"
+    ]
   }
 ]
