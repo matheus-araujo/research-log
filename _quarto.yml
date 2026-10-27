@@ -1,6 +1,7 @@
 project:
   type: website
-
+  output-dir: _site
+  
 website:
   title: "QC & ML"
 
@@ -19,6 +20,10 @@ website:
     right:
       - icon: github
         href: https://github.com/matheus-araujo/research-log/
+
+    page-footer:
+    center: "© 2026 Matheus | Build With  Quarto"
+
 format:
   html:
     theme: darkly
