@@ -1,0 +1,38 @@
+project:
+  type: website
+
+website:
+  title: "QC & ML"
+
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: Start
+      - href: papers/index.qmd
+      - text: Papers
+      - href: tutorials/index.qmd
+      - text: Tutorials
+      - href: about.qmd
+      - text: About
+
+    right:
+      - icon: github
+        href: https://github.com/matheus-araujo/research-log/
+format:
+  html:
+    theme: darkly
+    toc: true
+    toc-depth: 3
+    code-fold: true
+    code-tools: true
+    citeproc: true  
+    bibliography: references.bib  
+    link-citations: true
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+
